@@ -8,9 +8,14 @@ Made with Unity
 
 Credits:
 AMS Game Development Club(University Of British Columbia)
+
 Umut Polat
+
 Andrew Ting
+
 Amy Liu
+
 Karan Vasdev
+
 YiChen Zhang
 

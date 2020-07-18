@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{004634DA-24BA-2BC5-2DF2-0E706C8C4B39}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CoinScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIScript.cs" Line="13" Column="6" />
+      <File FileName="Assets/Scripts/ItemCollection.cs" Line="54" Column="45" />
+      <File FileName="Assets/Scripts/ScoreScript.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/obstacle.cs" Line="23" Column="37" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="28" Column="10" />
+      <File FileName="Assets/Scripts/LightGenerator.cs" Line="25" Column="43" />
+      <File FileName="Assets/Scripts/CoinScript.cs" Line="9" Column="58" />
+      <File FileName="Assets/Scripts/PlayerProgress.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="127" Column="39" />
+      <File FileName="Assets/Scripts/HighScoreCollector.cs" Line="32" Column="20" />
+      <File FileName="Assets/Scripts/PlatformGenerator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

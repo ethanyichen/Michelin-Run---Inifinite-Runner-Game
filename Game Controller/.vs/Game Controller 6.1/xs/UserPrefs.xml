@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{6190E6ED-795F-FCD8-6509-59DE808705E2}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObstacleGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="128" Column="24" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="41" Column="6" />
+      <File FileName="Assets/Scripts/PlayerProgress.cs" Line="8" Column="31" />
+      <File FileName="Assets/Scripts/HighScoreScript.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/HighScoreCollector.cs" Line="31" Column="6" />
+      <File FileName="Assets/Scripts/PlatformMover.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/ObstacleGeneratorEfficient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ObstacleGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ItemCollection.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

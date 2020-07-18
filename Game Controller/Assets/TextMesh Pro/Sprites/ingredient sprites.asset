@@ -1,0 +1,827 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: ingredient sprites
+  m_EditorClassIdentifier: 
+  hashCode: -537724449
+  material: {fileID: 21772776878881538}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  spriteSheet: {fileID: 2800000, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 4
+    m_Name: baguette
+    m_HashCode: -1459091247
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 1
+    m_Scale: 4
+    m_Name: tomato
+    m_HashCode: 135530412
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 2
+    m_Scale: 4
+    m_Name: steak
+    m_HashCode: 134899912
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 3
+    m_Scale: 4
+    m_Name: patty
+    m_HashCode: 129428168
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 4
+    m_Scale: 4
+    m_Name: onion
+    m_HashCode: 129957961
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 5
+    m_Scale: 4
+    m_Name: olive oil
+    m_HashCode: 1368296787
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 6
+    m_Scale: 4
+    m_Name: spinach
+    m_HashCode: 734478862
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 7
+    m_Scale: 4
+    m_Name: pumpkin
+    m_HashCode: -1236032268
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 8
+    m_Scale: 4
+    m_Name: noodle
+    m_HashCode: 29433123
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 9
+    m_Scale: 4
+    m_Name: mayo
+    m_HashCode: 4017754
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 10
+    m_Scale: 4
+    m_Name: lettuce
+    m_HashCode: -1777262854
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 11
+    m_Scale: 4
+    m_Name: ketchup
+    m_HashCode: -487655468
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 12
+    m_Scale: 4
+    m_Name: shrimp
+    m_HashCode: 180035933
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 13
+    m_Scale: 4
+    m_Name: potato
+    m_HashCode: -12137711
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 14
+    m_Scale: 4
+    m_Name: burger
+    m_HashCode: -396450443
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 15
+    m_Scale: 4
+    m_Name: flour
+    m_HashCode: 122360194
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 16
+    m_Scale: 4
+    m_Name: eggplant
+    m_HashCode: 2029003202
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 17
+    m_Scale: 4
+    m_Name: egg
+    m_HashCode: 113093
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 18
+    m_Scale: 4
+    m_Name: sausage
+    m_HashCode: 1068692823
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 19
+    m_Scale: 4
+    m_Name: chicken
+    m_HashCode: -1828745759
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 20
+    m_Scale: 4
+    m_Name: cheese
+    m_HashCode: -445434691
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 21
+    m_Scale: 4
+    m_Name: bun
+    m_HashCode: 108505
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 600
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300000, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 200
+      m_Y: 600
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300002, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 400
+      m_Y: 600
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300004, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 600
+      m_Y: 600
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300006, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 800
+      m_Y: 600
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300008, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 5
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 1000
+      m_Y: 600
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300010, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 6
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 400
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300012, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 7
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 200
+      m_Y: 400
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300014, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 8
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 400
+      m_Y: 400
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300016, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 9
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 600
+      m_Y: 400
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300018, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 10
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 800
+      m_Y: 400
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300020, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 11
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 1000
+      m_Y: 400
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300022, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 12
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 200
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300024, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 13
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 200
+      m_Y: 200
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300026, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 14
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 400
+      m_Y: 200
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300028, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 15
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 600
+      m_Y: 200
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300030, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 16
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 800
+      m_Y: 200
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300032, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 17
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 1000
+      m_Y: 200
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300034, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 18
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 0
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300036, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 19
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 200
+      m_Y: 0
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300038, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 20
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 400
+      m_Y: 0
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300040, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - m_Index: 21
+    m_Metrics:
+      m_Width: 200
+      m_Height: 200
+      m_HorizontalBearingX: -100
+      m_HorizontalBearingY: 100
+      m_HorizontalAdvance: 200
+    m_GlyphRect:
+      m_X: 600
+      m_Y: 0
+      m_Width: 200
+      m_Height: 200
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300042, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 600
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: baguette
+    hashCode: -1459091247
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300000, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 1
+    x: 200
+    y: 600
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: tomato
+    hashCode: 135530412
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300002, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 2
+    x: 400
+    y: 600
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: steak
+    hashCode: 134899912
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300004, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 3
+    x: 600
+    y: 600
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: patty
+    hashCode: 129428168
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300006, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 4
+    x: 800
+    y: 600
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: onion
+    hashCode: 129957961
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300008, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 5
+    x: 1000
+    y: 600
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: olive oil
+    hashCode: 1368296787
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300010, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 6
+    x: 0
+    y: 400
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: spinach
+    hashCode: 734478862
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300012, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 7
+    x: 200
+    y: 400
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: pumpkin
+    hashCode: -1236032268
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300014, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 8
+    x: 400
+    y: 400
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: noodle
+    hashCode: 29433123
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300016, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 9
+    x: 600
+    y: 400
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: mayo
+    hashCode: 4017754
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300018, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 10
+    x: 800
+    y: 400
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: lettuce
+    hashCode: -1777262854
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300020, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 11
+    x: 1000
+    y: 400
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: ketchup
+    hashCode: -487655468
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300022, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 12
+    x: 0
+    y: 200
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: shrimp
+    hashCode: 180035933
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300024, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 13
+    x: 200
+    y: 200
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: potato
+    hashCode: -12137711
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300026, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 14
+    x: 400
+    y: 200
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: burger
+    hashCode: -396450443
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300028, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 15
+    x: 600
+    y: 200
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: flour
+    hashCode: 122360194
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300030, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 16
+    x: 800
+    y: 200
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: eggplant
+    hashCode: 2029003202
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300032, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 17
+    x: 1000
+    y: 200
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: egg
+    hashCode: 113093
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300034, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 18
+    x: 0
+    y: 0
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: sausage
+    hashCode: 1068692823
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300036, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 19
+    x: 200
+    y: 0
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: chicken
+    hashCode: -1828745759
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300038, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 20
+    x: 400
+    y: 0
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: cheese
+    hashCode: -445434691
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300040, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  - id: 21
+    x: 600
+    y: 0
+    width: 200
+    height: 200
+    xOffset: -100
+    yOffset: 100
+    xAdvance: 200
+    scale: 4
+    name: bun
+    hashCode: 108505
+    unicode: 0
+    pivot: {x: -100, y: 100}
+    sprite: {fileID: 21300042, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+  fallbackSpriteAssets: []
+--- !u!21 &21772776878881538
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8e06c4f7e1116477dbb531f8f911db7a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

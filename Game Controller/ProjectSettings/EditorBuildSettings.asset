@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: a3092d49044f34096ba1df6f0aa5de42
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 1009bb5cd8d1a4cbf81188cc33a342c2
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/RecipeScene.unity
+    guid: 5fd2f31d41b104bdf9d0f2eced3796dd
+  - enabled: 1
+    path: Assets/Scenes/Credits Scene 1.unity
+    guid: e6772b41a51e44ad5973081da658977c
+  - enabled: 1
+    path: Assets/Scenes/HighScore Scene 1.unity
+    guid: 05facecd6b8ba4b398fb262d7e3929e8
+  - enabled: 0
+    path: Assets/Scenes/Credits Scene.unity
+    guid: fc6e593ea7da1498292d412bf40f19a3
+  - enabled: 0
+    path: Assets/Scenes/Setting Scene.unity
+    guid: 359c8a8b4621744d891c37c6c473a127
+  - enabled: 0
+    path: Assets/Scenes/HighScore Scene.unity
+    guid: 0ce926525754d48ea90576b28c4c5513
+  m_configObjects: {}
